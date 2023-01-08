@@ -1,7 +1,6 @@
-# CSC180-yelp-reviews
-CSC 180-01 Intelligent Systems (Spring 2022)
-Project 1: Yelp Business Rating Prediction using Tensorflow
-Due at 2:00 pm, Friday, February 25, 2022
+# CSC180-yelp-reviews <br />
+CSC 180-01 Intelligent Systems (Spring 2022) <br />
+Project 1: Yelp Business Rating Prediction using Tensorflow <br />
 
 1. Problem Formulation <br />
 In this project, we aim to predict a business's stars rating based on all the review text for that business
